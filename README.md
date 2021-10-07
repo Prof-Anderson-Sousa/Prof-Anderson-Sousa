@@ -15,3 +15,5 @@
 </div>
 <br>
 Apaixonado por Tecnologia, Educação e por Mudar a Vida das Pessoas Através Delas. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Anderson-Sousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
